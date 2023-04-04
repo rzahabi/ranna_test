@@ -3,5 +3,5 @@ test repo for git and github lesson
 
 ## Purpose
 
-- Create a remote reposityory on GitHub
+- Create a remote repository on GitHub
 - Practice Git workflow
