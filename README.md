@@ -5,3 +5,6 @@ test repo for git and github lesson
 
 - Create a remote repository on GitHub
 - Practice Git workflow
+
+## Ted's Edit
+This is Ted's edit.
