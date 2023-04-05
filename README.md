@@ -14,5 +14,8 @@ This is Ted's second edit.
 ## Ranna's Edit
 This is Ranna's edit
 
-## New changes 
-This is my new change
+
+=======
+## Changes
+Ted's change here
+
