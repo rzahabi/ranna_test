@@ -13,3 +13,6 @@ This is Ted's second edit.
 
 ## Ranna's Edit
 This is Ranna's edit
+
+## Changes
+Ted's change here
