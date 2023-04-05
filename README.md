@@ -10,3 +10,6 @@ test repo for git and github lesson
 This is Ted's edit.
 
 This is Ted's second edit. 
+
+## Ranna's Edit
+This is Ranna's edit
