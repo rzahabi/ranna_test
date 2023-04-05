@@ -8,3 +8,5 @@ test repo for git and github lesson
 
 ## Ted's Edit
 This is Ted's edit.
+
+This is Ted's second edit. 
